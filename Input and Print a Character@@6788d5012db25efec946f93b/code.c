@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     char n;
-    snaf("%c",&n);
+    scnaf("%c",&n);
     printf("You entered: %c",n);
     return 0;
 }
